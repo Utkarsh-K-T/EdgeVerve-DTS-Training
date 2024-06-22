@@ -1,12 +1,3 @@
-project setup
-├── JRE System Library [JavaSE-20]
-├── src/
-│   ├── com/
-│   │   ├── student/
-│   │   │   ├── dao/
-│   │   │   │   ├── StudentDao.java (interface)
-│   │   │   │   └── StudentDaoImpl.java (implementation)
-│   │   │   ├── model/
-│   │   │   │   └── Student.java (data structure)
-│   │   │   └── service/
-│   │   │       └── StudentService.java (reading student data)
+<div style="text-align: center">
+  ![image](https://github.com/Utkarsh-K-T/EdgeVerve-DTS-Training/assets/163502452/56adab19-9bc8-4002-94c5-fd64b9341d28)
+</div>
